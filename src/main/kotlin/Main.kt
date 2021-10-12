@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     var remainapples=APPLES%12
 
 
-
+println("the on of dozen"+no0fDozens)
    println(no0fDozens) //4  of 50
     println(remainapples) //2 of المتبقي
 
